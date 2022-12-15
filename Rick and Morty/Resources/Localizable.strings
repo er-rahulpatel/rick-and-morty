@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Rick and Morty
+
+  Created by Applanding Solutions on 2022-12-14.
+  
+*/
+
+"app_title" = "Rick and Morty";
+"name" = "Name";
+"status" = "Status";
+"species" = "Species";
+"gender" = "Gender";
+"current_location" = "Current location";
+"appeared_in" = "Appeared in";
+"episodes" = "episode(s)";
+
